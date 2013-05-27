@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">waiterHelper</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_waiter_helper">WaiterHelper</string>
+    <string name="title_activity_table_viewer">TableViewer</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="clearOrders">Clear All</string>
+    <string name="clearSelected">Clear Selected</string>
+
+</resources>
